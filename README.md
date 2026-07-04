@@ -1,1 +1,2 @@
-**Day 01.** [Palindrome Number](https://leetcode.com/submissions/detail/2054474915/)
+**Day 01.** [Palindrome Number](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/palindrome.py)
+**Day 02.** [Roman to Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/romanToInt.ipynb)
