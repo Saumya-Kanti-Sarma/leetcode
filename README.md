@@ -1,3 +1,4 @@
+# Questions solved from question set
 **Day 01.** [Palindrome Number](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/palindrome.py)
 
 **Day 02.** [Roman to Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/romanToInt.ipynb)
@@ -7,3 +8,12 @@
 **Day 04.** [Valid Parentheses](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/ValidParentheses.py)
 > Took help from a Youtube Video: [Valid Parentheses (LeetCode 20) | Full solution with visuals and animations | Stack Data Structure
 ](https://www.youtube.com/watch?v=TaWs8tIrnoA)
+
+**Day 05.** 
+  - [Valid Palindrome](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/valid_palindrome.py)
+  - [Longest Substring](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/longest_substring.py)
+
+---
+# Daily Random Questions
+
+- 08/07/2026 | [Question no: 3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/Daily_Questions/concunate_nonzero_digit.py)
