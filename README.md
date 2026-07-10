@@ -13,6 +13,11 @@
   - [Valid Palindrome](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/valid_palindrome.py)
   - [Longest Substring](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/longest_substring.py)
 
+**Day 06.** [None]()
+
+**Day 07.** 
+  - [Reverse Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/reverse_integer.py)
+
 ---
 # Daily Random Questions
 
