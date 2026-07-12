@@ -18,6 +18,12 @@
 **Day 07.** 
   - [Reverse Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/reverse_integer.py)
 
+**Day 08.** 
+  - [Reverse Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/reverse_integer.py)
+
+**Day 09.** 
+  - [Reverse Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/arrayRankTransform.py)
+
 ---
 # Daily Random Questions
 
