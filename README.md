@@ -22,7 +22,10 @@
   - [Reverse Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/reverse_integer.py)
 
 **Day 09.** 
-  - [Reverse Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/arrayRankTransform.py)
+  - [Array Rank Transformation](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/arrayRankTransform.py)
+
+**Day 10.** 
+  - [Sequential Digits](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/sequentialDigits.ts)
 
 ---
 # Daily Random Questions
