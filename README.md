@@ -23,6 +23,8 @@
 
 **Day 10.** [Sequential Digits](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/sequentialDigits.ts)
 
+**Day 11.** [Mirror Distance of an Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/MirrorDistance.ts)
+
 ---
 # Daily Random Questions
 
