@@ -25,6 +25,8 @@
 
 **Day 11.** [Mirror Distance of an Integer](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/MirrorDistance.ts)
 
+**Day 12.** [GCD of Odd and Even Sums](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/gcd.ts)
+
 ---
 # Daily Random Questions
 
