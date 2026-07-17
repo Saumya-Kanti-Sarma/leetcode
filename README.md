@@ -27,6 +27,8 @@
 
 **Day 12.** [GCD of Odd and Even Sums](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/gcd.ts)
 
+**Day 14.** [Median of two Sorted Array](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/Median_of_array.py)
+
 ---
 # Daily Random Questions
 
