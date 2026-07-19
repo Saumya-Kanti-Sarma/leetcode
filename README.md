@@ -29,7 +29,8 @@
 
 **Day 14.** [Median of two Sorted Array](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/Median_of_array.py)
 
----
-# Daily Random Questions
+**Day 15.** [Find Greatest Common Divisor of Array](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/gdc_array.py)
 
-- 08/07/2026 | [Question no: 3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/Daily_Questions/concunate_nonzero_digit.py)
+**Day 16.** [Smallest Subsequence of Distinct Characters](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/distint_character.py)
+> Took help from a Youtube Video: [
+Smallest Subsequence of Distinct Characters | Leetcode 1081 | Java | Hindi](https://www.youtube.com/watch?v=xtk-NatRDmo)
