@@ -34,3 +34,12 @@
 **Day 16.** [Smallest Subsequence of Distinct Characters](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/distint_character.py)
 > Took help from a Youtube Video: [
 Smallest Subsequence of Distinct Characters | Leetcode 1081 | Java | Hindi](https://www.youtube.com/watch?v=xtk-NatRDmo)
+**Day 15.** [Find Greatest Common Divisor of Array](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/gdc_array.py)
+
+**Day 17.** [Shift 2D Grid](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/2d_shift.py)
+> Took help from a Youtube Video: [Shift 2D Grid | Leetcode 1260 | Java | Hindi](https://www.youtube.com/watch?v=OmQVzOcgY2Y)
+
+**Day 18.** [3 sum](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/3sum.py)
+
+**Day 19.** [Longest Common Prefix](https://github.com/Saumya-Kanti-Sarma/leetcode/blob/main/longest_common_prefix.py)
+
